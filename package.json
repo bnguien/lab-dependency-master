@@ -1,0 +1,14 @@
+{
+  "name": "dut-core-math-utils",
+  "version": "1.0.0",
+  "description": "Thu vien toi uu hoa cac phep toan dai so",
+  "main": "index.js",
+  "author": "bnguyen",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
